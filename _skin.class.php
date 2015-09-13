@@ -10,7 +10,7 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  */
 class foliage_purple_Skin extends Skin
 {
-	var $version = '1.0';
+	var $version = '1.1';
 
 	/**
 	 * Get default name for the skin.
